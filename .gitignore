@@ -1,0 +1,5 @@
+ETL_venv/
+logs/
+temp/
+credentials.json
+credentials_economy.json
